@@ -60,3 +60,9 @@ Reprogram RISC-V dynamically (on DE2-115)
 2. Run "make rv-reprogram" on sw subdirectory
 3. Ensure that board is reset and updated LED pattern is shown
 4. (Optional) If you want to update bitstream with the new RISC-V code (no RTL changes), just run "Processing->Update Memory Initialization File" and "Processing->Start->Start Assembler" in Quartus
+
+TODO
+--------------------------
+* Better linker script
+* Get rid of hard-coded address map values
+* Adapt Altera BSP/HAL system
