@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+<file path="sys_onchip_memory2_0.hex" type="HEX" initParamName="INIT_FILE" memoryPath="onchip_memory2_0" />
+</simPackage>
